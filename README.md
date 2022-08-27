@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Leancba/RecipeFood-App/"><img width="350" src="https://github.com/Leancba/Criptomarket/blob/main/assets/logo.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://github.com/Leancba/Criptomarket/blob/main/assets/logo.png"><img width="350" src="https://github.com/Leancba/Criptomarket/blob/main/assets/logo.png" alt="lx-music logo"></a></p>
 
 
 <h1 align="center">Movie App</h1>
